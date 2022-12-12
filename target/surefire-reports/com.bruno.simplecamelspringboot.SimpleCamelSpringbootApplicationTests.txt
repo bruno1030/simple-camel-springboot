@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bruno.simplecamelspringboot.SimpleCamelSpringbootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.359 s - in com.bruno.simplecamelspringboot.SimpleCamelSpringbootApplicationTests
