@@ -7,7 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SimpleCamelSpringbootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SimpleCamelSpringbootApplication.class, args);
+		try {
+			SpringApplication.run(SimpleCamelSpringbootApplication.class, args);
+		}catch (Exception e){
+			e.printStackTrace();
+		}
+
 	}
 
 }
